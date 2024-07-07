@@ -15,7 +15,7 @@ def search_organizations():
   )
   # {
   #   organizations: (_type, name, vertical, parent_id, locale, created, image_id, id)[],
-  #   pagination: (object_coun, continuation, page_count, page_size, has_more_items, page_number)
+  #   pagination: (object_count, continuation, page_count, page_size, has_more_items, page_number)
   # }
   return response
 
